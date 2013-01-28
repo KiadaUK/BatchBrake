@@ -1,0 +1,10 @@
+c:\users\kiada\documents\visual studio 2012\Projects\BatchBrake\BatchBrake\bin\Debug\BatchBrake.exe.config
+c:\users\kiada\documents\visual studio 2012\Projects\BatchBrake\BatchBrake\bin\Debug\BatchBrake.exe
+c:\users\kiada\documents\visual studio 2012\Projects\BatchBrake\BatchBrake\bin\Debug\BatchBrake.pdb
+c:\users\kiada\documents\visual studio 2012\Projects\BatchBrake\BatchBrake\obj\Debug\BatchBrake.csprojResolveAssemblyReference.cache
+c:\users\kiada\documents\visual studio 2012\Projects\BatchBrake\BatchBrake\obj\Debug\BatchBrake.BatchBrake.resources
+c:\users\kiada\documents\visual studio 2012\Projects\BatchBrake\BatchBrake\obj\Debug\BatchBrake.Properties.Resources.resources
+c:\users\kiada\documents\visual studio 2012\Projects\BatchBrake\BatchBrake\obj\Debug\BatchBrake.csproj.GenerateResource.Cache
+c:\users\kiada\documents\visual studio 2012\Projects\BatchBrake\BatchBrake\obj\Debug\BatchBrake.exe
+c:\users\kiada\documents\visual studio 2012\Projects\BatchBrake\BatchBrake\obj\Debug\BatchBrake.pdb
+c:\users\kiada\documents\visual studio 2012\Projects\BatchBrake\BatchBrake\obj\Debug\BatchBrake.SettingsForm.resources
